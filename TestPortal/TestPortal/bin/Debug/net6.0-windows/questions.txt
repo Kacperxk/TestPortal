@@ -1,0 +1,5 @@
+What is the capital of France?|A. London|B. Paris|C. Berlin|D. Rome|B
+What is the largest ocean in the world?|A. Pacific Ocean|B. Atlantic Ocean|C. Indian Ocean|D. Arctic Ocean|A
+What is the chemical symbol for gold?|A. Au|B. Ag|C. Fe|D. Cu|A
+Who wrote "To Kill a Mockingbird"?|A. Harper Lee|B. J.K. Rowling|C. George Orwell|D. Mark Twain|A
+What is the tallest mountain in the world?|A. Mount Everest|B. K2|C. Kanchenjunga|D. Lhotse|A

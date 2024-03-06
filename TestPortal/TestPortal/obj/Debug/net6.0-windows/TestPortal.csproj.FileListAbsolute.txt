@@ -1,0 +1,16 @@
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\obj\Debug\net6.0-windows\TestPortal.csproj.GenerateResource.cache
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\obj\Debug\net6.0-windows\TestPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\obj\Debug\net6.0-windows\TestPortal.AssemblyInfoInputs.cache
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\obj\Debug\net6.0-windows\TestPortal.AssemblyInfo.cs
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\obj\Debug\net6.0-windows\TestPortal.csproj.CoreCompileInputs.cache
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\bin\Debug\net6.0-windows\TestPortal.exe
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\bin\Debug\net6.0-windows\TestPortal.deps.json
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\bin\Debug\net6.0-windows\TestPortal.runtimeconfig.json
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\bin\Debug\net6.0-windows\TestPortal.dll
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\bin\Debug\net6.0-windows\TestPortal.pdb
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\obj\Debug\net6.0-windows\TestPortal.dll
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\obj\Debug\net6.0-windows\refint\TestPortal.dll
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\obj\Debug\net6.0-windows\TestPortal.pdb
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\obj\Debug\net6.0-windows\TestPortal.genruntimeconfig.cache
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\obj\Debug\net6.0-windows\ref\TestPortal.dll
+C:\Users\VIKING\source\repos\TestPortal\TestPortal\obj\Debug\net6.0-windows\TestPortal.Form1.resources
